@@ -22,6 +22,8 @@ Have you wanted to power your pods and spaceplanes with an RTG instead of solar 
 
 If so, this part is for you!
 
+This is a modernization of DaMichel's Aerodynamic RTG part developed in KSP 0.25. It has the same stats and cost as the stock RTG, but is designed in an aerodynamic, radially attached form factor. It is useful anytime you'd like to use an RTG but don't want lots of drag, or anytime you want a prettier alternative to the boxy stock RTG
+
 ***Radial Aerodynamic RTG***, because [DaMichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
 
 ### Contains two radial parts
@@ -82,13 +84,14 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* [DaMichel Ltd (DML)][DML]
 
 ### Suggests
 
-* [DaMichel's CargoBays (DM/CB)][DMCB]
-* [DaMichel's Fuselage (DM/F)][DMF]
-* [DaMichel's SphericalTanks(DM/ST)][DMST]
-* [DaMichel's AeroRadial (DM/A)][DMA]
+* [DaMichel's CargoBays (DCB)][DCB]
+* [DaMichel's Fuselage (DM/F)][DFF]
+* [DaMichel's SphericalTanks(DST)][DST]
+* [DaMichel's AeroRadial (DAR)][DAR]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
@@ -97,10 +100,12 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 * Either
   * [Module Manager][mm] [^3]
   * [Module Manager /L][mm]l [^3]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [TweakScale][twk]
 
 ### Tags
 
-* agency, flag, config
+* parts, resources
 
 ---
 
@@ -109,7 +114,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Credits and Special Thanks
 
-* [DaMichel][damichel] for the inspiration to create this mod
+* [DaMichel][damichel] for creating this glorious parts addon!
+* [`Bezzier`][bezzier] for the picking up where [DaMichel][damichel] left off
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -208,11 +214,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
-[DMA]: https://spacedock.info/mod/2342 "DaMichel's AeroRadial (DM/A)"
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel's AeroRadial"
-[DMCB]: https://spacedock.info/mod/2339 "DaMichel's CargoBays (DM/CB)"
-[DMF]: https://spacedock.info/mod/2340 "DaMichel's Fuselage (DM/F)"
-[DMST]: https://spacedock.info/mod/2342 "DaMichel's SphericalTanks(DM/ST)"
+[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel's AeroRadial (DAR)"
+[DCB]: https://spacedock.info/mod/2339 "DaMichel's CargoBays (DCB)"
+[DMF]: https://spacedock.info/mod/2340 "DaMichel's Fuselage (DMF)"
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
+[DST]: https://spacedock.info/mod/2342 "DaMichel's SphericalTanks(DST)"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"

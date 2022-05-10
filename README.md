@@ -14,6 +14,7 @@ updated: 09 May 2022 -->
 # AeroRadial (DAR)
 
 *originally named Radial Aerodynamic RTG*  
+AeroRTG! All of the power, none of the ugly.
 
 > An electrical parts mod adding two streamlined radially attached parts: one RTG and one Fuel Cell.
 
@@ -125,14 +126,14 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 #### Previous Author (1) - Author: [`Bezzier`][bezzier]
 
-Color Curves Company
+*Color Curves Company*
 
-> Forum: [Thread][MOD:1:thread] - Download: [Dropbox][MOD:1:download] - Source: [Dropbox][MOD:1:source]  
+> Forum: [Thread][MOD:1:thread] - Download: [GitHub][MOD:1:dnload] - Source: [GitHub][MOD:1:source]  
 > License: [![License][LIC:1:shd]][LIC:1:url] ![License][LIC:1:log]
 
 #### Original (0) - Author: [`DaMichel`][damichel]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:download] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
@@ -158,9 +159,26 @@ Color Curves Company
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/license.json "CC BY-SA 4.0"
+[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"  
+[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"  
+
+[MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
+[MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"  
+[MOD:1:dnload]: https://github.com/ColorCurves/AeroRTG "GitHub"
+
+<!--- license provenance -->
+[LIC:0:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 4.0"
+
+[LIC:1:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
+[LIC:1:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
+[LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 4.0"
+
+[LIC:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/license.json "CC BY-SA 3.0"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"

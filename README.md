@@ -170,11 +170,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--SA%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 3.0"
 
 [LIC:1:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
 [LIC:1:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
-[LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 4.0"
+[LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--SA%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 3.0"
 
 [LIC:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"

@@ -22,7 +22,12 @@ based upon work by LisiasT -->
 
 * "DaMichel" is trademark of DaMichel
 * "Kichel Space Travel Supplies" is trademark of DaMichel
-* "AeroRadial" is a trademark of DaMichel
+* "Aerodynamic RTG" is trademark of DaMichel
+* "Radial Aerodynamic RTG" is trademark of DaMichel
+* "AeroRTG" is trademark of Bezzier
+* "Color Curves Company" is trademark of Bezzier
+* "ColorCurves" is trademark of Bezzier
+* "AeroRadial" is a trademark of zer0Kerbal
 * "DaMichel Ltd" is trademark of zer0Kerbal
 * "DM/A" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
@@ -35,7 +40,11 @@ based upon work by LisiasT -->
 
 ## Kichel Space Travel Supplies
 
-* "Kichel Space Travel Supplies" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "Kichel Space Travel Supplies" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental
+
+## Color Curves Company
+
+* "Color Curves Company" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo)
 

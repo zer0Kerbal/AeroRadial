@@ -50,9 +50,10 @@ updated: 02 May 2022
 
 ### Translations
 
-* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png)
-
-*Additions and corrections welcome!*
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png" alt="English" style="zoom:150%;" /> English</li>
+  <li><small>Additions and corrections welcome!</small></li>
+</ul>
 
 ### Art Asset(s)
 

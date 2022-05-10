@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-DaMichel's AeroRadial (DM/A)
+DaMichel's AeroRadial (DAR)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# DaMichel's AeroRadial (DM/A)
+# DaMichel's AeroRadial (DAR)
 
 [Home](./index.md)
 

@@ -18,6 +18,10 @@ AeroRTG! All of the power, none of the ugly.
 
 > An electrical parts mod adding two streamlined radially attached parts: one RTG and one Fuel Cell.
 
+Have you wanted to power your pods and spaceplanes with an RTG instead of solar panels, but been disappointed by the ungainly nature of the stock RTG?
+
+If so, this part is for you!
+
 ***Radial Aerodynamic RTG***, because [DaMichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
 
 ### Contains two radial parts
@@ -100,8 +104,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ---
 
-<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>  
+<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center"><p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 

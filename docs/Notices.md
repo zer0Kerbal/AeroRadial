@@ -29,7 +29,7 @@ based upon work by LisiasT -->
 * "ColorCurves" is trademark of Bezzier
 * "AeroRadial" is a trademark of zer0Kerbal
 * "DaMichel Ltd" is trademark of zer0Kerbal
-* "DM/A" is trademark of zer0Kerbal
+* "DM/L" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal

@@ -1,16 +1,16 @@
 ---
 permalink: /License.html
-title: License: CC BY-SA 4.0
+title: License: CC BY-SA 3.0 Unported
 ---
 
 <!--
-CC-BY-SA-4.0.md v1.0.0.0
+CC-BY-SA-3.0.md v1.0.1.0
 DaMichel's AeroRadial (DAR)
 created: 01 Feb 2022
 updated: 07 Mar 2022
 -->
 
-![CC](https://creativecommons.org/images/deed/svg/cc_white.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_white.svg)![Share Alike](https://creativecommons.org/images/deed/svg/sa_white.svg)
+![CC](https://creativecommons.org/images/deed/svg/cc_blue.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg)![Share Alike](https://creativecommons.org/images/deed/svg/sa_blue.svg)
 
 ## Attribution-ShareAlike 4.0 International
 
@@ -167,4 +167,4 @@ Creative Commons may be contacted at [creativecommons.org](https://creativecommo
 
 Additional languages available: [العربية](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ar), [čeština](https://creativecommons.org/licenses/by-sa/4.0/legalcode.cs), [Deutsch](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de), [Ελληνικά](https://creativecommons.org/licenses/by-sa/4.0/legalcode.el), [Español](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), [euskara](https://creativecommons.org/licenses/by-sa/4.0/legalcode.eu), [suomeksi](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fi), [français](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr), [hrvatski](https://creativecommons.org/licenses/by-sa/4.0/legalcode.hr), [Bahasa Indonesia](https://creativecommons.org/licenses/by-sa/4.0/legalcode.id), [italiano](https://creativecommons.org/licenses/by-sa/4.0/legalcode.it), [日本語](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ja), [한국어](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko), [Lietuvių](https://creativecommons.org/licenses/by-sa/4.0/legalcode.lt), [latviski](https://creativecommons.org/licenses/by-sa/4.0/legalcode.lv), [te reo Māori](https://creativecommons.org/licenses/by-sa/4.0/legalcode.mi), [Nederlands](https://creativecommons.org/licenses/by-sa/4.0/legalcode.nl), [norsk](https://creativecommons.org/licenses/by-sa/4.0/legalcode.no), [polski](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl), [português](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt), [română](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ro), [русский](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru), [Slovenščina](https://creativecommons.org/licenses/by-sa/4.0/legalcode.sl), [svenska](https://creativecommons.org/licenses/by-sa/4.0/legalcode.sv), [Türkçe](https://creativecommons.org/licenses/by-sa/4.0/legalcode.tr), [українська](https://creativecommons.org/licenses/by-sa/4.0/legalcode.uk), [中文](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans), [華語](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hant). Please read the [FAQ](https://creativecommons.org/faq/#officialtranslations) for more information about official translations.
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal-->

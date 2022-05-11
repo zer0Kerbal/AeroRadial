@@ -13,7 +13,7 @@ updated: 09 May 2022 -->
 
 # AeroRadial (DAR)
 
-AeroRTG! All of the power, none of the ugly. An electrical parts mod adding two streamlined radially attached parts: one RTG and one Fuel Cell.
+AeroRTG! All of the power, none of the ugly. A parts addon adding two streamlined radially attached parts: one RTG and one Fuel Cell.
 
 ### Forward by [Bezzier][bezzier]
 
@@ -27,8 +27,8 @@ AeroRTG! All of the power, none of the ugly. An electrical parts mod adding two 
 
 ### Contains two radial parts
 
-1. PB-NUK : A Aerodynamic Radioisotope Thermoelectric Generator and contains a small battery  
-2. PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA) and contains a small battery; intake sold separately.  
+* PB-NUK : A Aerodynamic Radioisotope Thermoelectric Generator and contains a small battery  
+* PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA) and contains a small battery; intake sold separately.  
 
 ### Images
 
@@ -83,7 +83,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [DaMichel Ltd (DML)][DML]
+* [DaMichel Ltd (DM/L)][DML]
 
 ### Suggests
 

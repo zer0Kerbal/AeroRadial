@@ -15,6 +15,12 @@ updated: 09 May 2022 -->
 
 AeroRTG! All of the power, none of the ugly. A parts addon adding two streamlined radially attached parts: one RTG and one Fuel Cell.
 
+
+
+## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel], and then by [Bezzier][bezzier]
+
+
+
 ### Forward by [Bezzier][bezzier]
 
 > Have you wanted to power your pods and spaceplanes with an RTG instead of solar panels, but been disappointed by the ungainly nature of the stock RTG?
@@ -35,10 +41,6 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 <img src="https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:55%;" /> <img src="https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" /> 
 
 [View full album](https://imgur.com/a/rFRN1)
-
-
-
-## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel]
 
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial (DAR)" style="zoom: 33%;" /> 

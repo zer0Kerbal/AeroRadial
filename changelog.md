@@ -10,24 +10,37 @@
 | spacedock  | (https://spacedock.info/mod/3027)                                 |
 | ckan       | DaMichelLtd                                                       |
 
-## Version 0.9.99.0-prerelease - `<Kichel Space Travel Supplies>`
+## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
 * 09 May 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Add
 
-* Flags
-  * created by zer0Kerbal
-  * closes #23 - Create Flag
-* Agent
-  * created by zer0Kerbal
-  * closes #24 - Create Agency
+* Dependency
+  * DaMichel Ltd (agency, flag, common files)
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts
 
 ### Localization
 
-* Add
+* Update
   * <us-en.cfg>
+* Add
   * Localization/
     * [readme.md]
     * [quickstart.md]

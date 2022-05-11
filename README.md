@@ -41,7 +41,7 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel]
 
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial (DAR)" style="zoom: 15%;" /> 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial (DAR)" style="zoom: 33%;" /> 
 
 ---
 

@@ -13,18 +13,17 @@ updated: 09 May 2022 -->
 
 # AeroRadial (DAR)
 
-*originally named Radial Aerodynamic RTG*  
-AeroRTG! All of the power, none of the ugly.
+AeroRTG! All of the power, none of the ugly. An electrical parts mod adding two streamlined radially attached parts: one RTG and one Fuel Cell.
 
-> An electrical parts mod adding two streamlined radially attached parts: one RTG and one Fuel Cell.
+### Forward by [Bezzier][bezzier]
 
-Have you wanted to power your pods and spaceplanes with an RTG instead of solar panels, but been disappointed by the ungainly nature of the stock RTG?
-
-If so, this part is for you!
-
-This is a modernization of DaMichel's Aerodynamic RTG part developed in KSP 0.25. It has the same stats and cost as the stock RTG, but is designed in an aerodynamic, radially attached form factor. It is useful anytime you'd like to use an RTG but don't want lots of drag, or anytime you want a prettier alternative to the boxy stock RTG
-
-***Radial Aerodynamic RTG***, because [DaMichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
+> Have you wanted to power your pods and spaceplanes with an RTG instead of solar panels, but been disappointed by the ungainly nature of the stock RTG?
+>
+> If so, this part is for you!
+>
+> This is a modernization of DaMichel's Aerodynamic RTG part developed in KSP 0.25. It has the same stats and cost as the stock RTG, but is designed in an aerodynamic, radially attached > form factor. It is useful anytime you'd like to use an RTG but don't want lots of drag, or anytime you want a prettier alternative to the boxy stock RTG
+>
+> originally named ***Radial Aerodynamic RTG***, because [DaMichel][damichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
 
 ### Contains two radial parts
 
@@ -32,8 +31,8 @@ This is a modernization of DaMichel's Aerodynamic RTG part developed in KSP 0.25
 2. PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA) and contains a small battery; intake sold separately.  
 
 ### Hero Images  
-![DaMichel's  AeroRadial](https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png "DaMichel's AeroRadial") 
-![DaMichel's  AeroRadial](https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png "DaMichel's AeroRadial")
+<img src="https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" /> 
+<img src="https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" />
 
 [View full album](https://imgur.com/a/rFRN1)
 
@@ -168,11 +167,11 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 <!--- mod provenance -->
 [MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"  
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"  
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
+[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
 
 [MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
-[MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"  
+[MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
 [MOD:1:dnload]: https://github.com/ColorCurves/AeroRTG "GitHub"
 
 <!--- license provenance -->

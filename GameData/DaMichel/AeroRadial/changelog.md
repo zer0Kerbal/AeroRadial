@@ -58,7 +58,7 @@
 
 ---
 
-### Version 1.1.0.1 - `<Spit'n'Polish>`
+### Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
 
 * 2020-02-24
 * Released for Kerbal Space Program 1.8.1
@@ -90,7 +90,7 @@
 
 ---
 
-### Version 1.1.0.0 - `<Fresh Coat of Paint: AeroRadial>`
+### Version 1.1.0.0-adoption - `<Fresh Coat of Paint: AeroRadial>`
 
 * 2020-02-17
 * Released for Kerbal Space Program 1.8.1
@@ -142,7 +142,7 @@
 
 ---
 
-## Version - 1.0.1.0 - Cost Increase
+## Version - 1.0.1.0-release - Cost Increase
 
 * Nov 03, 2017
 * Kerbal Space Progrtam 1.3.1
@@ -152,7 +152,7 @@
 
 ---
 
-## Version - 1.0.0.0 - colorcurves update
+## Version - 1.0.0.0-release - colorcurves update
 
 * May 10, 2016
 * Kerbal Space Progrtam 1.0.5
@@ -173,7 +173,7 @@ Correcting typos
 
 ---
 
-## Version - 0.0.0.0 - Original by DaMichel
+## Version - 0.0.0.0-release - Original by DaMichel
 
 * unknown version number
 * Apr 18-2014

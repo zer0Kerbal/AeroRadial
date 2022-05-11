@@ -90,7 +90,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Suggests
 
 * [DaMichel's CargoBays (DCB)][DCB]
-* [DaMichel's Fuselage (DM/F)][DFF]
+* [DaMichel's Fuselage (DMF)][DFF]
 * [DaMichel's SphericalTanks(DST)][DST]
 * [DaMichel's AeroRadial (DAR)][DAR]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
@@ -168,9 +168,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
+[MOD:0:source]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip "Dropbox"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
+[MOD:0:dnload]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip"Dropbox"
 
 [MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
 [MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"

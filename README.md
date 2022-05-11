@@ -30,9 +30,9 @@ AeroRTG! All of the power, none of the ugly. An electrical parts mod adding two 
 1. PB-NUK : A Aerodynamic Radioisotope Thermoelectric Generator and contains a small battery  
 2. PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA) and contains a small battery; intake sold separately.  
 
-### Hero Images  
-<img src="https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" /> 
-<img src="https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" />
+### Images
+
+<img src="https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:55%;" /> <img src="https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" /> 
 
 [View full album](https://imgur.com/a/rFRN1)
 
@@ -41,7 +41,7 @@ AeroRTG! All of the power, none of the ugly. An electrical parts mod adding two 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel]
 
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="DaMichel" style="zoom: 15%;" /> 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial (DAR)" style="zoom: 15%;" /> 
 
 ---
 

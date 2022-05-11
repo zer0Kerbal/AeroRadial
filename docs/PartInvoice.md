@@ -23,7 +23,7 @@ This part add-on adds two (2) electric charge producing parts
 
 ---
 
-* PB-NUK-A Aerodynamic Radioisotope Thermoelectric Generator
+* PB-NUK Aerodynamic Radioisotope Thermoelectric Generator
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/DM-RTG_icon.png" alt="Mallet" width="25%" height="25%" />
 

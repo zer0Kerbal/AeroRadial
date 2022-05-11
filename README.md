@@ -154,7 +154,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/AeroRadial/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "AeroRadial Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "AeroRadial Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/AeroRadial/issues "issues"
 [MOD:licns]: https://github.com/zer0Kerbal/AeroRadial/blob/master/LICENSE "Github License"
 [MOD:local]: https://github.com/zer0Kerbal/AeroRadial/blob/master/GameData/AeroRadial/Localization/readme.md "Localization"
@@ -213,7 +213,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
-[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel's AeroRadial (DAR)"
+[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"
 [DCB]: https://spacedock.info/mod/2339 "DaMichel's CargoBays (DCB)"
 [DMF]: https://spacedock.info/mod/2340 "DaMichel's Fuselage (DMF)"
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"

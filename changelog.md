@@ -1,14 +1,14 @@
 # Changelog  
-
-| modName    | DaMichel Ltd (DM/L)                                               |
+  
+| modName    | DaMichel's AeroRadial (DAR)                                       |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
-| author     | DaMichel and zer0Kerbal                                           |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DaMichelLtd)            |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DaMichelLtd)          |
-| spacedock  | (https://spacedock.info/mod/3027)                                 |
-| ckan       | DaMichelLtd                                                       |
+| license    | CC-BY-SA-3.0                                                      |
+| author     | DaMichel, Bezzier and zer0Kerbal                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/AeroRadial)             |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AeroRadial)           |
+| spacedock  | (https://spacedock.info/mod/2338)                                 |
+| ckan       | DMTanks-AeroRTG                                                   |
 
 ## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
@@ -35,6 +35,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts
+* closes #36 - Asset Updates
 
 ### Localization
 
@@ -50,10 +51,10 @@
 ### Status
 
 * Issues
-  * closes #22 - DaMichel Ltd (DM/L) 0.9.99.0-prerelease `<Kichel Space Travel Supplies>`
-  * closes #4 - 0.9.99.0 Verify Legal Mumbo Jumbo
-  * closes #5 - 0.9.99.0 Create Documentation
-  * closes #6 - 0.9.99.0 Social Media
+  * closes #1 - AeroRadial (DAR) 1.1.99.0-prerelease `<Split'n'Polish: AeroRadial>`
+  * closes #2 - 1.1.99.0 Verify Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Update Documentation
+  * closes #4 - 1.1.99.0 Social Media
 
 ---
 
@@ -81,6 +82,12 @@
 * updated product hero shots
 * created SpaceDock header
 
+### Status
+
+* Issues
+  * closes #33 - Previous Releases
+  * closes #35 - 1.1.0.1-prerelease
+
 ---
 
 ### Version 1.1.0.0 - `<Fresh Coat of Paint: AeroRadial>`
@@ -96,6 +103,9 @@
 * Added
   * <en-us.cfg>
   * translations welcomed through GitHub Push Request
+  * updates #5 - Localization - Master
+  * closes #7 - American English <us-en.cfg>
+  * closes #32 - Part Localization
 
 * updated license to CC BY-SA 4.0
 * file structure and modernization
@@ -123,6 +133,12 @@
 * Curseforge entry
 * Forum post
 * .json
+
+### Status
+
+* Issues
+  * updates #33 - Previous Releases
+  * closes #34 - 1.1.0.0-adoption
 
 ---
 

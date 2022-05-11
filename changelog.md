@@ -2,7 +2,7 @@
   
 | modName    | DaMichel's AeroRadial (DAR)                                       |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-3.0                                                      |
+| license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/AeroRadial)             |
@@ -14,6 +14,11 @@
 
 * 09 May 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
+
+
+	"KSP_VERSION_MAX" :
+
+
 
 ### Add
 

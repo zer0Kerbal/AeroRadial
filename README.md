@@ -216,10 +216,10 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
 [DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"
-[DCB]: https://spacedock.info/mod/2339 "DaMichel's CargoBays (DCB)"
-[DMF]: https://spacedock.info/mod/2340 "DaMichel's Fuselage (DMF)"
+[DCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's CargoBays (DCB)"
+[DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DMF)"
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
-[DST]: https://spacedock.info/mod/2342 "DaMichel's SphericalTanks(DST)"
+[DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/ "DaMichel's SphericalTanks (DST)"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"

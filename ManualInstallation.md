@@ -17,7 +17,7 @@ updated: 18 Apr 2022 -->
 
 [Home](./index.md)
 
-<BLURB>
+This part add-on adds two (2) electric charge producing parts
 
 ## Installation Instructions
 

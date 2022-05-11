@@ -12,7 +12,7 @@ repository:
   name: AeroRadial
 
   # A short description of the repository that will show up on GitHub
-  description: This parts addon provides several radial attached Radioisotope Thermoelectric Generators and fuel cells, for Kerbal Space Program.
+  description: "All of the power, none of the ugly. This electric charge parts addon adding several streamlined radial attached parts: one radioisotope thermoelectric generator (RTG) and one fuel cell, for Kerbal Space Program."
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/

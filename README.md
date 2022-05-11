@@ -90,7 +90,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Suggests
 
 * [DaMichel's CargoBays (DCB)][DCB]
-* [DaMichel's Fuselage (DMF)][DFF]
+* [DaMichel's Fuselage (DMF)][DMF]
 * [DaMichel's SphericalTanks(DST)][DST]
 * [DaMichel's AeroRadial (DAR)][DAR]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]

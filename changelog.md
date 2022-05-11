@@ -87,6 +87,7 @@
 * Issues
   * closes #33 - Previous Releases
   * closes #35 - 1.1.0.1-prerelease
+  * updates #36 - Asset Updates
 
 ---
 

@@ -44,59 +44,112 @@
 
 ---
 
-## Version 1.1.0.1 for Kerbal Space Program 1.8.1
+### Version 1.1.0.1 - `<Spit'n'Polish>`
 
-Released on 2020-02-24
+* 2020-02-24
+* Released for Kerbal Space Program 1.8.1
 
----
-
-### Version 1.1.0.1 - Spit'n'Polish
-
-* thank you to BenjaminCronin for pointed out decorative right brace in changelogs. wite-out applied.
-* Also dangling VERSION. superglue applied.
-* added attach node to the back (rear) of the parts
-* updated the DM-RFC texture.
-* RTG: adjusted cost/entryCost from 34950/58000 to 20000/50000
-* RTG: adjusted TechRequired from experimentalElectrics to largeElectrics
-* removed tags.cfg (redundant patch since tags now in localization)
+* thank you to BenjaminCronin
+  * for pointed out decorative right brace in changelogs
+  * wite-out applied
+* Also dangling VERSION
+  * superglue applied.
+* added
+  * attach node to the back (rear) of the parts
+* updated
+  * the DM-RFC texture.
+* RTG
+  * adjusted
+    * [cost] from 34950 to 20000
+    * [entryCost] from 58000 to 50000
+    * [TechRequired] from experimentalElectrics to largeElectrics
+* removed
+  * tags.cfg (redundant patch since tags now in localization)
 * updated product hero shots
 * created SpaceDock header
 
 ---
 
-Kerbal Space Program 1.8.1
+### Version 1.1.0.0 - `<Fresh Coat of Paint: AeroRadial>`
 
-[Download (380.59 KiB)](https://spacedock.info/mod/2338/DaMichel's%20AeroRadial%20(D/AR)/download/1.1.0.1)
+* 2020-02-17
+* Released for Kerbal Space Program 1.8.1
 
-## Version 1.1.0.0 for Kerbal Space Program 1.8.1
-
-Released on 2020-02-17
-
-### Version 1.1.0.0 - Fresh Coat of Paint: AeroRadial
-
-* adopted for curation by zer0Kerbal
+* adopted by zer0Kerbal
 * for Kerbal Space Program (KSP) 1.9 (might work for earlier)
-* converted to use Localization - translations welcomed through GitHub Push Request
-* updated license to CC BY-NC-SA 3.0
+
+### Localization
+
+* Added
+  * <en-us.cfg>
+  * translations welcomed through GitHub Push Request
+
+* updated license to CC BY-SA 4.0
 * file structure and modernization
-* added Kerbal Changelog
-* added Readme
-* created github repo
-* created SpaceDock entry
-* created CKAN entry
-* created Curseforge entry
-* created Forum post
-* created .json
 * modernized part.cfg
-* added DM-RFC (Radial Fuel Cell) - which is an air breathing, liquid fuel powered generator producing 1.5 EC/s
-* added ODFC patch
-* created DM-RFC texture
 * many little changes to patches/parts.
 
+### Added
+
+* New Part
+  * DM-RFC
+  * Radial Fuel Cell
+  * air breathing, liquid fuel powered generator
+  * producing 1.5 EC/s
+  * created DM-RFC texture
+* Compatibility patch
+  * On-Demand Fuel Cells (ODFC)
+
+### Created
+
+* Kerbal Changelog
+* Readme
+* github repo
+* SpaceDock entry
+* CKAN entry
+* Curseforge entry
+* Forum post
+* .json
+
 ---
 
-Kerbal Space Program 1.8.1
+## Version - 1.0.1.0 - Cost Increase
 
-[Download (281.85 KiB)](https://spacedock.info/mod/2338/DaMichel's%20AeroRadial%20(D/AR)/download/1.1.0.0)
+* Nov 03, 2017
+* Kerbal Space Progrtam 1.3.1
+
+* This release increases the cost of the AeroRTG by 50%, to offset its aerodynamic nature as compared to the original RTG.
+* The part continues to function, so this brings it up to date for 1.3.1.
 
 ---
+
+## Version - 1.0.0.0 - colorcurves update
+
+* May 10, 2016
+* Kerbal Space Progrtam 1.0.5
+* adopted by Bezzier (Color Curves)
+
+### This brings these parts up to date by
+
+Correcting typos
+
+* Correcting typos
+* Rebalancing to stock values
+  * costs
+  * masses
+  * temperatures
+  * drag
+* Adding Core Heat
+* [techRequired] to experimentalElectrics
+
+---
+
+## Version - 0.0.0.0 - Original by DaMichel
+
+* unknown version number
+* Apr 18-2014
+* First release
+
+---
+
+<!-- This File CC BY-ND 4.0 by zer0Kerbal -->

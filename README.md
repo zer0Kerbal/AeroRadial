@@ -15,6 +15,12 @@ updated: 09 May 2022 -->
 
 AeroRTG! All of the power, none of the ugly. A parts addon adding two streamlined radially attached parts: one RTG and one Fuel Cell.
 
+
+
+## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel], and then by [Bezzier][bezzier]
+
+
+
 ### Forward by [Bezzier][bezzier]
 
 > Have you wanted to power your pods and spaceplanes with an RTG instead of solar panels, but been disappointed by the ungainly nature of the stock RTG?
@@ -35,10 +41,6 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 <img src="https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:55%;" /> <img src="https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" /> 
 
 [View full album](https://imgur.com/a/rFRN1)
-
-
-
-## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel]
 
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial (DAR)" style="zoom: 33%;" /> 
@@ -71,14 +73,14 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 
 ### Installation Directions
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
+***Use*** [^1]
+  CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^1]
+or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
 
@@ -88,17 +90,17 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Suggests
 
 * [DaMichel's CargoBays (DCB)][DCB]
-* [DaMichel's Fuselage (DM/F)][DFF]
-* [DaMichel's SphericalTanks(DST)][DST]
+* [DaMichel's Fuselage (DMF)][DMF]
+* [DaMichel's SphericalTanks (DST)][DST]
 * [DaMichel's AeroRadial (DAR)][DAR]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
 ### Supports
 
-* Either
-  * [Module Manager][mm] [^3]
-  * [Module Manager /L][mm]l [^3]
+* Either [^3]
+  * [Module Manager][mm]
+  * [Module Manager /L][mml]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
@@ -154,7 +156,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/AeroRadial/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "AeroRadial Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "AeroRadial Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/AeroRadial/issues "issues"
 [MOD:licns]: https://github.com/zer0Kerbal/AeroRadial/blob/master/LICENSE "Github License"
 [MOD:local]: https://github.com/zer0Kerbal/AeroRadial/blob/master/GameData/AeroRadial/Localization/readme.md "Localization"
@@ -166,9 +168,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
+[MOD:0:source]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip "Dropbox"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/MOD-NAME5.rar?dl=0 "Dropbox"
+[MOD:0:dnload]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip"Dropbox"
 
 [MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
 [MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
@@ -199,7 +201,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [GITHUB:url]: https://github.com/zer0Kerbal/AeroRadial/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/3027 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/2338 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
@@ -210,14 +212,13 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
-[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel's AeroRadial (DAR)"
-[DCB]: https://spacedock.info/mod/2339 "DaMichel's CargoBays (DCB)"
-[DMF]: https://spacedock.info/mod/2340 "DaMichel's Fuselage (DMF)"
+[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"
+[DCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's CargoBays (DCB)"
+[DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DMF)"
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
-[DST]: https://spacedock.info/mod/2342 "DaMichel's SphericalTanks(DST)"
+[DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/ "DaMichel's SphericalTanks (DST)"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"

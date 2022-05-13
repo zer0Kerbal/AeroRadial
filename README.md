@@ -73,14 +73,14 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 
 ### Installation Directions
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
+***Use*** [^1]
+  CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^1]
+or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
 
@@ -98,9 +98,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Supports
 
-* Either
-  * [Module Manager][mm] [^3]
-  * [Module Manager /L][mm]l [^3]
+* Either [^3]
+  * [Module Manager][mm]
+  * [Module Manager /L][mml]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
@@ -212,7 +212,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
 [DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"

@@ -5,7 +5,7 @@ updated: 05 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![MOD-NAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![AeroRadial][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -21,7 +21,7 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/img/HeroLogo_1920x1920.png" alt="MOD-NAME Hero" width="72%" height="72%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial Hero" width="72%" height="72%">
 
 ### Forward by [Bezzier][bezzier]
 
@@ -44,13 +44,12 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [View full album](https://imgur.com/a/rFRN1)
 
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial (DAR)" style="zoom: 33%;" /> 
-
 ---
 
 ### See More
 
+* See our [Parts Catalog][MOD:parts] for part pictures
+* For more images, see our [Marketing Slicks][MOD:markt]
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
@@ -64,23 +63,34 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
+### Help Wanted
+
+> * Compatibility patches
+> * Contracts for these glorious parts
+> * Variant Textures
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlight
+> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
+
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
-### Installation Directions
+### Installation Directions [^1]
 
-***Use*** [^1]
+***Use***
   CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
+
+Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
+Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
 
 or [![CKAN][CKAN:img]][CKAN:url]
 
@@ -94,7 +104,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [DaMichel's CargoBays (DCB)][DCB]
 * [DaMichel's Fuselage (DMF)][DMF]
 * [DaMichel's SphericalTanks (DST)][DST]
-* [DaMichel's AeroRadial (DAR)][DAR]
+* [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
@@ -103,6 +113,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
+* [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
@@ -110,10 +121,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * parts, resources
 
----
-
-<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center"><p><b>*red box below is a link to forum post on how to get support*</p>  
-<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
+<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
+  <p><b>red box below is a link to forum post on how to get support</b></p>
+  <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
+    <p><img src="https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
+  <p style="color: #000000;">Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p>
+</div>
 
 ### Credits and Special Thanks
 
@@ -161,22 +174,24 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "AeroRadial Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/AeroRadial/issues "issues"
 [MOD:licns]: https://github.com/zer0Kerbal/AeroRadial/blob/master/LICENSE "Github License"
-[MOD:local]: https://github.com/zer0Kerbal/AeroRadial/blob/master/GameData/AeroRadial/Localization/readme.md "Localization"
-[MOD:pages]: https://zer0kerbal.github.io/AeroRadial/ "GitHub Pages"
-[MOD:notic]: https://zer0kerbal.github.io/AeroRadial/Notices "GitHub Pages"
+[MOD:markt]: https://zer0kerbal.github.io/AeroRadial/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/AeroRadial/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/AeroRadial/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/AeroRadial "GitHub Pages"
+
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/mod.json
 
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
+[MOD:0:dnload]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip"Dropbox"
 [MOD:0:source]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip "Dropbox"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
-[MOD:0:dnload]: https://www.dropbox.com/s/ayqdo72ieq0do86/DMTanks_Mar06-2014.zip"Dropbox"
 
+[MOD:1:dnload]: https://github.com/ColorCurves/AeroRTG "GitHub"
 [MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
 [MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
-[MOD:1:dnload]: https://github.com/ColorCurves/AeroRTG "GitHub"
 
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
@@ -214,13 +229,14 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
 [DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"
 [DCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's CargoBays (DCB)"
 [DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DMF)"
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 [DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/ "DaMichel's SphericalTanks (DST)"
+[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -233,26 +249,43 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
 
 <!-- Localization -->
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png/ "Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
+
+[curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
+[reddit]: https://www.reddit.com/user/zer0Kerbal
+[twitch]: https://www.twitch.tv/zer0kerbal
+[twitter]: https://twitter.com/zer0Kerbal
+[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
 [damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
 [bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
+---
+
+#### Connect with me
+
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/MOD-NAME/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P

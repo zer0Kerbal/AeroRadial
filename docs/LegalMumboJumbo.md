@@ -17,7 +17,7 @@ updated: 30 Apr 2022
 <!-- <i class="fa-regular fa-file-certificate fa-spin fa-3x" style="color: firebrick"></i> -->
 
 <!-- <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> -->
-<i class="fa-solid fa-file-certificate fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
+<i class="fa-solid fa-file-certificate fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: dodgerblue" ></i>
 
 <!-- <div class="fa-3x">
   <i class="fa-solid fa-file-certificate fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
@@ -35,10 +35,12 @@ updated: 30 Apr 2022
   * [Forum Post #1](#Forum-I)
   * [Forum Post #2](#Forum-II)
   * [Forum Post #3](#Forum-III)
+  * [Forum Post #4](#Forum-IV)
+  * [Forum Post #5](#Forum-V)
 
-### License
+## License
 
-[License](./LegalMumboJumbo/License.md)
+[License](./LegalMumboJumbo/License.md)  
 [top](#Legal-Mumbo-Jumbo)
 
 ### Previous License
@@ -48,17 +50,27 @@ updated: 30 Apr 2022
 
 ### Forum I
 
-![Forum](./LegalMumboJumbo/FORUM-01.png)
+![Forum](./LegalMumboJumbo/FORUM-01.png)  
 [top](#Legal-Mumbo-Jumbo)
 
 ### Forum II
 
-![Forum](./LegalMumboJumbo/FORUM-02.png)
+![Forum](./LegalMumboJumbo/FORUM-02.png)  
 [top](#Legal-Mumbo-Jumbo)
 
-### Forum III
+## Forum III
 
-![Forum](./LegalMumboJumbo/FORUM-03.png)
+![Forum](./LegalMumboJumbo/FORUM-03.png)  
+[top](#Legal-Mumbo-Jumbo)
+
+## Forum IV
+
+![Forum](./LegalMumboJumbo/FORUM-04.png)  
+[top](#Legal-Mumbo-Jumbo)
+
+## Forum V
+
+![Forum](./LegalMumboJumbo/FORUM-05.png)  
 [top](#Legal-Mumbo-Jumbo)
 
 ---

@@ -10,15 +10,27 @@
 | spacedock  | (https://spacedock.info/mod/2338)                                 |
 | ckan       | DMTanks-AeroRTG                                                   |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
+## Version 1.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
 * 09 May 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 
-	"KSP_VERSION_MAX" :
+	"KSP_VERSION_MAX
+  DM-RTG.cfg v1.0.1.0
+manufacturer = #DML-Agency-titl
+tags = #autoLOC_500387
+  DM-RFC.cfg v1.0.1.0
+manufacturer = #DML-Agency-titl
+tags = #autoLOC_500648
+ModuleCargoPart
+DRAG_CUBES
 
-
+	// ----------------------------------------------------------------------
+	// Dimensions: x: 0.25, y: 0.84, z: 0.24
+	// Bounding Box Size: 51.61388 liters
+        packedVolume = 50
+        stackableQuantity = 2
 
 ### Add
 
@@ -52,6 +64,8 @@
     * [quickstart.md]
 * updates #6 - American English <us-en.cfg>
 * updates #5 - Localization - Master
+
+AeroRadial.cfg v1.0.0.0
 
 ### Status
 

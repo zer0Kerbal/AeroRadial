@@ -5,8 +5,7 @@ description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!--
-Notices.md v1.0.1.0
+<!-- Notices.md v1.0.1.0
 DaMichel's AeroRadial (DAR)
 created: 13 Apr 2022
 updated: 15 May 2022
@@ -33,7 +32,7 @@ based upon work by LisiasT -->
 * "ColorCurves" is trademark of Bezzier
 * "AeroRadial" is a trademark of zer0Kerbal
 * "DaMichel Ltd" is trademark of zer0Kerbal
-* "DM/L" is trademark of zer0Kerbal
+* "DAR" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal

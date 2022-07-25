@@ -23,6 +23,12 @@
 
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
+### License
+
+* Updated License: CC-BY-SA-4.0
+  * was: CC-BY-SA-3.0
+* closes #44 - License
+
 ### Parts
 
 * [DM-RTG.cfg] v1.0.1.0
@@ -39,6 +45,7 @@
     * [DRAG_CUBES]
   * Update
   * [manufacturer] = #DML-Agency-titl
+* closes #45 - Update Parts
 
 ### Asset Updates
 

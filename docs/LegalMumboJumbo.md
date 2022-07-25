@@ -5,8 +5,7 @@ description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!--
-LegalMumboJumbo.md v1.0.5.1
+<!-- LegalMumboJumbo.md v1.0.5.1
 DaMichel's AeroRadial (DAR)
 created: 01 Feb 2022
 updated: 15 May 2022

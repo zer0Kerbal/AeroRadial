@@ -53,13 +53,15 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
   + [GameData]
     + [DaMichel]
       + [AeroRadial]
-        + [Agencies]
+        + [Assets]
           ...
         + [Compatibility]
           ...
-        + [Flags]
+        + [Config]
           ...
         + [Localization]
+          ...
+        + [Parts]
           ...
         * #.#.#.#.htm
         * AeroRadialLtd.version

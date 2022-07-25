@@ -12,24 +12,32 @@
 
 ## Version 1.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
-* 09 May 2022  
+* 23 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
+### Summary 1.1.99.0
 
-	"KSP_VERSION_MAX
-  DM-RTG.cfg v1.0.1.0
-manufacturer = #DML-Agency-titl
-tags = #autoLOC_500387
-  DM-RFC.cfg v1.0.1.0
-manufacturer = #DML-Agency-titl
-tags = #autoLOC_500648
-ModuleCargoPart
-DRAG_CUBES
+* New Dependency
+  * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
 
-### Add
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
-* Dependency
-  * DaMichel Ltd (agency, flag, common files)
+### Parts
+
+* [DM-RTG.cfg] v1.0.1.0
+  * [tags] = #autoLOC_500387
+* [DM-RFC.cfg] v1.0.1.0
+  * tags = #autoLOC_500648
+* All parts
+  * Add
+    * [ModuleCargoPart]
+      * [Dimensions] x: 0.25, y: 0.84, z: 0.24
+      * [Bounding] 51.61388 liters
+      * [packedVolume] = 50
+      * [stackableQuantity] = 2
+    * [DRAG_CUBES]
+  * Update
+  * [manufacturer] = #DML-Agency-titl
 
 ### Asset Updates
 
@@ -51,15 +59,42 @@ DRAG_CUBES
 ### Localization
 
 * Update
-  * <us-en.cfg>
+  * en-us.cfg v1.0.1.0
 * Add
   * Localization/
-    * [readme.md]
-    * [quickstart.md]
-* updates #6 - American English <us-en.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * [AeroRadial.cfg] v1.0.0.0
+    * adds localized tags to parts
 * updates #5 - Localization - Master
+* closes #6 - American English <us-en.cfg>
+* closes #42 - Add localized tags to parts
 
-AeroRadial.cfg v1.0.0.0
+### docs/
+
+* Add/Update
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+  * [changelog.md]
+    * add header for docs/
+* closes #42 - docs/
+
+### Documentation
+
+* Update
+  * [Readme.md] v1.6.9.2
+  * [ReleaseNotes.md] v1.3.1.1
+  * [AeroRadial.version]
+    * remove
+      * [KSP_VERSION_MAX]
 
 ### Status
 

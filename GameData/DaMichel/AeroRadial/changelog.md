@@ -93,7 +93,7 @@
   * [_config.yml]
   * [changelog.md]
     * add header for docs/
-* closes #42 - docs/
+* closes #47 - docs/
 
 ### Documentation
 

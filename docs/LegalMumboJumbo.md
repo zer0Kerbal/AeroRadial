@@ -23,7 +23,8 @@ updated: 15 May 2022
 ## Legal Mumbo Jumbo
 
 * Table of Contents
-  * [License](#License)
+  * [Current License](#License)
+  * [Original License](#Previous-License)
   * [Forum Post #1](#Forum-I)
   * [Forum Post #2](#Forum-II)
   * [Forum Post #3](#Forum-III)
@@ -33,6 +34,11 @@ updated: 15 May 2022
 ## License
 
 [License](./LegalMumboJumbo/License.md)  
+[top](#Legal-Mumbo-Jumbo)
+
+### Previous License
+
+[License](./LegalMumboJumbo/Original-License.md)
 [top](#Legal-Mumbo-Jumbo)
 
 ### Forum I

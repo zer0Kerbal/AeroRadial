@@ -41,7 +41,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Updated License: CC-BY-SA-4.0
   * was: CC-BY-SA-3.0
-* closes #44 - License
+* closes #43 - License
 
 ### Parts
 

@@ -148,6 +148,11 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
+#### Previous Author (2) - [`zer0Kerbal`][zer0Kerbal]
+
+> Forum: [Thread][MOD:2:thread] - Download: [CurseForge][MOD:2:dnload] - Source: [GitHub][MOD:2:source]  
+> License: [![License][LIC:2:shd]][LIC:2:url] ![License][LIC:2:log]
+
 #### Previous Author (1) - Author: [`Bezzier`][bezzier]
 
 *Color Curves Company*
@@ -193,6 +198,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:1:source]: https://github.com/ColorCurves/AeroRTG "GitHub"
 [MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-*/ "KSP Forum"
 
+[MOD:2:dnload]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "GitHub"
+[MOD:2:source]: https://github.com/zer0Kerbal/AeroRadial "GitHub"
+[MOD:2:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "KSP Forum"
+
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
@@ -202,9 +211,13 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [LIC:1:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
 [LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--SA%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 3.0"
 
-[LIC:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
+[LIC:2:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0"
+[LIC:2:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
+[LIC:2:shd]: https://img.shields.io/badge/License-CC%20BY--SA%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-SA 3.0"
+
+[LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 3.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/license.json "CC BY-SA 3.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/license.json "CC BY-SA 4.0"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"

@@ -107,7 +107,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * [_config.yml]
   * [changelog.md]
     * add header for docs/
-* closes #42 - docs/
+* closes #47 - docs/
 
 ### Documentation
 

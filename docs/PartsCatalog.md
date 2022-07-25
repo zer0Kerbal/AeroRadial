@@ -2,7 +2,7 @@
 permalink: /PartCatalog.html
 title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
-tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
+tags: parts,catalog,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- PartsCatalog.md v1.1.4.0

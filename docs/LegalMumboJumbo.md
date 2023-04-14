@@ -33,37 +33,37 @@ updated: 15 May 2022
 ## License
 
 [License](./LegalMumboJumbo/License.md)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Previous License
 
 [License](./LegalMumboJumbo/Original-License.md)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum II
 
 ![Forum](./LegalMumboJumbo/FORUM-02.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ## Forum III
 
 ![Forum](./LegalMumboJumbo/FORUM-03.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ## Forum IV
 
 ![Forum](./LegalMumboJumbo/FORUM-04.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ## Forum V
 
 ![Forum](./LegalMumboJumbo/FORUM-05.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ---
 

@@ -1,15 +1,15 @@
 <!-- readme.md v1.2.0.0
 AeroRadial (DAR)
 created: 09 May 2016
-updated: 30 Mar 2023
+updated: 13 Apr 2023
 
-TEMPLATE: readme.md v1.7.1.0
+TEMPLATE: readme.md v1.7.2.0
 created: 17 Jul 2017
-updated: 15 Mar 2023
+updated: 13 Apr 2023
 
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![AeroRadial (DAR)][SHD:mod]][forum]  
+[![AeroRadial (DAR)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
@@ -42,24 +42,31 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * PB-NUK : A Aerodynamic Radioisotope Thermoelectric Generator and contains a small battery  
 * PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA) and contains a small battery; intake sold separately.  
 
-### Images
-
-<img src="https://i.postimg.cc/TYkqYt3T/Aero-Radial-Hero.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:55%;" /> <img src="https://i.postimg.cc/RCLmbDMC/DAR-New-Product-01-650x650.png" alt="DaMichel's  AeroRadial" title="DaMichel's AeroRadial" style="zoom:50%;" /> 
-
-[View full album](https://imgur.com/a/rFRN1)
-
 ### See More
 
-* See our [Parts Catalog][parts] for part pictures
-* For more images, see our [Marketing Slicks][markt]
-* Discussions and news on this  See [Discussions][discu] or [KSP Forums][forum]
-* Changelog Summary for more details of changes: See [ChangeLog][chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][issue]
-* GitHub Pages : See [Pages][pages]
+>* [ChangeLog][chlog] for more details of changes
+>* [Discussions][discu] for discussions and news
+>* [GitHub Pages][pages]
+>* [Known Issues][issue] for more details of feature requests and known issues
+>* [Marketing Slicks][markt]
+>* [Parts Catalog][parts] for part pictures
 
-### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
+
+* Review
+  * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![Kottabos reviews DaMichel's Parts](https://img.youtube.com/vi/sYEXrGT44jo/0.jpg)](https://www.youtube.com/watch?v=sYEXrGT44jo)
+
+### <img src="https://duckduckgo.com/i/fe0eb4d1.png" alt="Imgur logo" height="33px" width="92px">
+
+* Albums
+[View full album](https://imgur.com/a/rFRN1)
+  * [Stack Inline Lights with full color and brightness setup and in any sizes!](https://i.imgur.com/AkVuW8J.png)
+### Images
+
+
+
 
 ### Help Wanted
 
@@ -217,7 +224,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
-[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"
+[DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "AeroRadial (DAR)"
 [DCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's CargoBays (DCB)"
 [DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DMF)"
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"

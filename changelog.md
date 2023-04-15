@@ -4,11 +4,32 @@
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AeroRadial)           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/AeroRadial)             |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AeroRadial)           |
 | spacedock  | (https://spacedock.info/mod/2338)                                 |
 | ckan       | DMTanks-AeroRTG                                                   |
+
+## Version 1.2.0.0-release - `<Thank you DaMichel>` edition
+
+* Released
+  * 14 Apr 2023
+  * Released for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
+
+
+### Change Summary
+
+* Dependency
+  * [DaMichel Limited (DML)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
+* Can now search for `dar` or `dm` in the editor search bar to find all AeroRadial parts.
+* d
+* Issues
+
+
+---
 
 ## Version 1.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 

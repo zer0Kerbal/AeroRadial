@@ -243,7 +243,7 @@ Comment, click, like, share, up-vote, subscribe
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL
 <!-- [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=UDHW7MYNR8M58 "PayPal" -->
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"

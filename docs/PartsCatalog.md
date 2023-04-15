@@ -30,11 +30,11 @@ This part add-on adds two (2) electric charge producing parts
 
 * PB-NUK Aerodynamic Radioisotope Thermoelectric Generator
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/GameData/AeroRadial/Parts/%40thumbs/DM-RTG_icon.png" alt="PB-NUK" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/docs/thumbs/DM-RTG_icon.png" alt="PB-NUK" width="25%" height="25%" />
 
 * PB-ZAP A Radial Aerodynamic Fuel Cell
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/GameData/AeroRadial/Parts/%40thumbs/DM-RFC_icon.png" alt="PB-ZAP" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/docs/thumbs/DM-RFC_icon.png" alt="PB-ZAP" width="25%" height="25%" />
 
 [top](#parts-catalog)
 

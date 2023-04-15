@@ -4,31 +4,30 @@ title: Legal Mumbo Jumbo
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- LegalMumboJumbo.md v1.0.5.1
+<!-- LegalMumboJumbo.md v1.2.0.0
 DaMichel's AeroRadial (DAR)
 created: 01 Feb 2022
-updated: 15 May 2022
--->
+updated: 13 Apr 2023
+
+TEMPLATE: LegalMumboJumbo.md v1.0.6.0
+created: 01 Feb 2022
+updated: 14 Apr 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-
-# DaMichel's AeroRadial (DAR)
+## [DaMichel's AeroRadial (DAR)][DAR]
 
 [Home](./index.md)
 
 ## Legal Mumbo Jumbo
 
 * Table of Contents
-  * [Current License](#License)
-  * [Original License](#Previous-License)
-  * [Forum Post #1](#Forum-I)
-  * [Forum Post #2](#Forum-II)
-  * [Forum Post #3](#Forum-III)
-  * [Forum Post #4](#Forum-IV)
-  * [Forum Post #5](#Forum-V)
+  * [Current License](#license)
+  * [Original License](#previous-license)
+  * [Forum Post #1](#forum-i)
+  * [Forum Post #2](#forum-ii)
+  * [Forum Post #3](#damichels-permission)
 
 ## License
 
@@ -37,7 +36,7 @@ updated: 15 May 2022
 
 ### Previous License
 
-[License](./LegalMumboJumbo/Original-License.md)
+[License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
 
 ### Forum I
@@ -50,21 +49,13 @@ updated: 15 May 2022
 ![Forum](./LegalMumboJumbo/FORUM-02.png)  
 [top](#legal-mumbo-jumbo)
 
-## Forum III
+## DaMichel's Permission
 
-![Forum](./LegalMumboJumbo/FORUM-03.png)  
-[top](#legal-mumbo-jumbo)
-
-## Forum IV
-
-![Forum](./LegalMumboJumbo/FORUM-04.png)  
-[top](#legal-mumbo-jumbo)
-
-## Forum V
-
-![Forum](./LegalMumboJumbo/FORUM-05.png)  
+![Forum](./LegalMumboJumbo/DaMichelPermission.png)  
 [top](#legal-mumbo-jumbo)
 
 ---
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+this file CC BY-ND 4.0 by zer0Kerbal
+
+[DAR]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "AeroRadial (DAR)"

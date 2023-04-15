@@ -25,7 +25,7 @@ AeroRTG! All of the power, none of the ugly. A parts addon adding two streamline
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/img/HeroLogo_1920x1920.png" alt="MOD-NAME Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial Hero" width="50%" height="50%">
 
 ### Forward by [Bezzier][bezzier]
 

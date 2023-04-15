@@ -14,7 +14,7 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | DaMichel's AeroRadial (DAR)                                       |
+| modName    | AeroRadial (DAR)                                       |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |

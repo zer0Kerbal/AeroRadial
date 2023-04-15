@@ -13,13 +13,9 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-
-
 # [AeroRadial (DAR)][DAR]
 
 AeroRTG! All of the power, none of the ugly. A parts addon adding two streamlined radially attached parts: one RTG and one Fuel Cell.
-
-
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel], and then by [Bezzier][bezzier]
 

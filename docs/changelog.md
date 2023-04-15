@@ -5,7 +5,6 @@ description: The Opening Credits, and the closing credits, plus the first of two
 # layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 AeroRadial (DAR)
@@ -14,15 +13,45 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | AeroRadial (DAR)                                       |
+| modName    | AeroRadial (DAR)                                                  |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AeroRadial)           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/AeroRadial)             |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AeroRadial)           |
 | spacedock  | (https://spacedock.info/mod/2338)                                 |
 | ckan       | DMTanks-AeroRTG                                                   |
+
+## Version 1.2.0.0-release - `<Thank you DaMichel>` edition
+
+* Released
+  * 14 Apr 2023
+  * Released for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
+
+### Change Summary
+
+* Dependency
+  * [DaMichel Limited (DML)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
+* Can now search for `dar` or `dm` in the editor search bar to find all AeroRadial parts.
+* Update
+
+* updated
+  * Linted all files
+  * OnDemandFuelCells.cfg v1.3.0.0
+  * AeroRadial.cfg v1.1.0.0
+  * en-us.cfg v1.1.0.0
+* split out TweakScale.cfg from parts
+* added missing strings from localization files
+
+* Issues
+  * closes #48 - AeroRadial (DAR) 1.2.0.0-release `<Thank you DaMichel>` edition
+  * closes #49 - 1.2.0.0 Additional Tasks
+
+---
 
 ## Version 1.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
@@ -252,4 +281,4 @@ Correcting typos
 
 ---
 
-<!-- This File CC BY-ND 4.0 by zer0Kerbal -->
+<!-- This File CC BY-ND 4.0 by zer0Kerbal -->

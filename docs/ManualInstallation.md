@@ -4,15 +4,18 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.0
+<!-- ManualInstallation.md v1.2.0.0
 AeroRadial (DAR)
-created: 01 Oct 2019
-updated: 21 Jul 2022 -->
+created: 17 Feb 2022
+updated: 13 Apr 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.0
+created: 01 Feb 2022
+updated: 27 Mar 2023
 
-# AeroRadial (DAR)
+based upon work by Lisias -->
+
+## [AeroRadial (DAR)][mod]
 
 [Home](./index.md)
 
@@ -52,7 +55,15 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [DaMichel]
-      + [AeroRadial]
+      + [DaMichelLtd][DML]
+        + [Agency]
+          ...
+        + [Flags]
+          ...
+        + [Localization]
+          ...
+        ...
+      + [AeroRadial][mod]
         + [Assets]
           ...
         + [Compatibility]
@@ -71,12 +82,16 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * ManualInstallation.htm
         * readme.htm
     ...
+  * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* [DaMichel Ltd (DM/L)][DML]
+* [DaMichel Ltd (DML)][DML]
 
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "AeroRadial (DAR)"
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal

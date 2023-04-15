@@ -236,6 +236,7 @@ Comment, click, like, share, up-vote, subscribe
 [WHIM]: https://www.curseforge.com/kerbal/ksp-mods/WhimChaser "WhimChaser (WHIM)"
 
 [GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
+[ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
 
 [MM]: https://github.com/net-lisias-ksp/ModularManagement "ModularManagement (MM)"
 [m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"

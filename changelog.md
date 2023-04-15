@@ -19,13 +19,12 @@
 
 ***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
 
-
 ### Change Summary
 
 * Dependency
   * [DaMichel Limited (DML)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
 * Can now search for `dar` or `dm` in the editor search bar to find all AeroRadial parts.
-* d
+
 * Issues
 
 

@@ -26,11 +26,11 @@
 * Can now search for `dar` or `dm` in the editor search bar to find all AeroRadial parts.
 * Update
 
-
 * updated
-  * OnDemandFuelCells.cfg v1.3.0.0
   * Linted all files
-  * Aer.cfg
+  * OnDemandFuelCells.cfg v1.3.0.0
+  * AeroRadial.cfg v1.1.0.0
+  * en-us.cfg v1.1.0.0
 * split out TweakScale.cfg from parts
 * added missing strings from localization files
 

@@ -26,7 +26,8 @@
 * Can now search for `dar` or `dm` in the editor search bar to find all AeroRadial parts.
 
 * Issues
-
+  * closes #48 - DaMichel's AeroRadial (DAR) 1.2.0.0-release `<Thank you DaMichel>` edition
+  * closes #49 - 1.2.0.0 Additional Tasks
 
 ---
 

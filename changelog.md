@@ -24,6 +24,15 @@
 * Dependency
   * [DaMichel Limited (DML)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
 * Can now search for `dar` or `dm` in the editor search bar to find all AeroRadial parts.
+* Update
+
+
+* updated
+  * OnDemandFuelCells.cfg v1.3.0.0
+  * Linted all files
+  * Aer.cfg
+* split out TweakScale.cfg from parts
+* added missing strings from localization files
 
 * Issues
   * closes #48 - AeroRadial (DAR) 1.2.0.0-release `<Thank you DaMichel>` edition
